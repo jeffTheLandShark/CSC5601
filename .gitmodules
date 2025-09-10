@@ -4,3 +4,6 @@
 [submodule "prob_sets/problem-set-linear-algebra-review-jeffTheLandShark"]
 	path = prob_sets/lin-alg-review
 	url = https://github.com/msoecsse/problem-set-linear-algebra-review-jeffTheLandShark.git
+[submodule "labs/lab-02-jeffTheLandShark"]
+	path = labs/lab-02/
+	url = https://github.com/msoecsse/lab-02-jeffTheLandShark.git
