@@ -1,3 +1,6 @@
 [submodule "labs/lab-01-jeffTheLandShark"]
 	path = labs/lab-01/
 	url = https://github.com/msoecsse/lab-01-jeffTheLandShark.git
+[submodule "prob_sets/problem-set-linear-algebra-review-jeffTheLandShark"]
+	path = prob_sets/problem-set-linear-algebra-review-jeffTheLandShark
+	url = https://github.com/msoecsse/problem-set-linear-algebra-review-jeffTheLandShark.git
