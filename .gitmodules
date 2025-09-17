@@ -14,5 +14,5 @@
 	path = labs/lab-01
 	url = https://github.com/msoecsse/lab-01-jeffTheLandShark.git
 [submodule "labs/lab-03-jeffTheLandShark"]
-	path = labs/lab-03-jeffTheLandShark
+	path = labs/lab-03
 	url = https://github.com/msoecsse/lab-03-jeffTheLandShark.git
