@@ -30,15 +30,18 @@ The files in this repository are organized into the following categories:
 
 ### Labs
 
-| Lab   | Path        |
-|-------|-------------|
-| Lab 1 | `labs/lab1` |
+| Lab   | Path          | Title                     |
+|-------|---------------|---------------------------|
+| Lab 1 | `labs/lab-01` | Numpy and Linear Algebra  |
+| Lab 2 | `labs/lab-02` | Modelling and Model Error |
+| Lab 3 | `labs/lab-03` | Decision Boundaries       |
 
 ### Programming Assignments
 
-| Assignment    | Description           | Path            |
-|---------------|-----------------------|-----------------|
-| Problem Set 1 | Linear Algebra Review | `prob_sets/ps1` |
+| Assignment                     | Path                            |
+|--------------------------------|---------------------------------|
+| Linear Algebra Review (Week 1) | `prob_sets/lin-alg-review`      |
+| Decision Boundaries (Week 3)   | `prob_sets/decision-boundaries` |
 
 ## Tools and Technologies
 
