@@ -20,5 +20,5 @@
 	path = prob_sets/decision-boundaries
 	url = https://github.com/msoecsse/problem-set-decision-boundaries-jeffTheLandShark.git
 [submodule "labs/lab-04-jeffTheLandShark"]
-	path = labs/lab-04-jeffTheLandShark
+	path = labs/lab-04
 	url = https://github.com/msoecsse/lab-04-jeffTheLandShark.git
