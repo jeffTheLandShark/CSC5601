@@ -22,3 +22,6 @@
 [submodule "labs/lab-04-jeffTheLandShark"]
 	path = labs/lab-04
 	url = https://github.com/msoecsse/lab-04-jeffTheLandShark.git
+[submodule "prob_sets/problem-set-bias-variance-and-knn-jeffTheLandShark"]
+	path = prob_sets/problem-set-bias-variance-and-knn-jeffTheLandShark
+	url = https://github.com/msoecsse/problem-set-bias-variance-and-knn-jeffTheLandShark.git
