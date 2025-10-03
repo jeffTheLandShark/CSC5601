@@ -28,3 +28,6 @@
 [submodule "labs/lab-05-jeffTheLandShark"]
 	path = labs/lab-05-jeffTheLandShark
 	url = https://github.com/msoecsse/lab-05-jeffTheLandShark.git
+[submodule "prob_sets/problem-set-logistic-regression-jeffTheLandShark"]
+	path = prob_sets/problem-set-logistic-regression-jeffTheLandShark
+	url = https://github.com/msoecsse/problem-set-logistic-regression-jeffTheLandShark.git
