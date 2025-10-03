@@ -25,3 +25,6 @@
 [submodule "prob_sets/problem-set-bias-variance-and-knn-jeffTheLandShark"]
 	path = prob_sets/bias-variance-knn
 	url = https://github.com/msoecsse/problem-set-bias-variance-and-knn-jeffTheLandShark.git
+[submodule "labs/lab-05-jeffTheLandShark"]
+	path = labs/lab-05-jeffTheLandShark
+	url = https://github.com/msoecsse/lab-05-jeffTheLandShark.git
