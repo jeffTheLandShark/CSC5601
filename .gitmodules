@@ -34,3 +34,6 @@
 [submodule "prob_sets/problem-set-decision-trees-and-logistic-regression-jeffTheLandShark"]
 	path = prob_sets/problem-set-decision-trees-and-logistic-regression-jeffTheLandShark
 	url = git@github.com:msoecsse/problem-set-decision-trees-and-logistic-regression-jeffTheLandShark.git
+[submodule "prob_sets/problem-set-support-vector-machines-jeffTheLandShark"]
+	path = prob_sets/problem-set-support-vector-machines-jeffTheLandShark
+	url = git@github.com:msoecsse/problem-set-support-vector-machines-jeffTheLandShark.git
