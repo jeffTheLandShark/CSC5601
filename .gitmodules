@@ -35,11 +35,11 @@
 	path = prob_sets/problem-set-decision-trees-and-logistic-regression-jeffTheLandShark
 	url = git@github.com:msoecsse/problem-set-decision-trees-and-logistic-regression-jeffTheLandShark.git
 [submodule "prob_sets/problem-set-support-vector-machines-jeffTheLandShark"]
-	path = prob_sets/problem-set-support-vector-machines-jeffTheLandShark
+	path = prob_sets/support-vector-machines
 	url = git@github.com:msoecsse/problem-set-support-vector-machines-jeffTheLandShark.git
 [submodule "labs/lab-06-jeffTheLandShark"]
 	path = labs/lab-06-jeffTheLandShark
 	url = git@github.com:msoecsse/lab-06-jeffTheLandShark.git
 [submodule "prob_sets/problem-set-calculus-review-jeffTheLandShark"]
-	path = prob_sets/problem-set-calculus-review-jeffTheLandShark
+	path = prob_sets/calc-review
 	url = git@github.com:msoecsse/problem-set-calculus-review-jeffTheLandShark.git
