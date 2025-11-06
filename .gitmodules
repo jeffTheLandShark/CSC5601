@@ -43,3 +43,6 @@
 [submodule "prob_sets/problem-set-calculus-review-jeffTheLandShark"]
 	path = prob_sets/calc-review
 	url = git@github.com:msoecsse/problem-set-calculus-review-jeffTheLandShark.git
+[submodule "term_proj/Isolation-Forest"]
+	path = term_proj/Isolation-Forest
+	url = git@github.com:jeffTheLandShark/Isolation-Forest.git
