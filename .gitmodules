@@ -32,7 +32,7 @@
 	path = prob_sets/logit-regression
 	url = https://github.com/msoecsse/problem-set-logistic-regression-jeffTheLandShark.git
 [submodule "prob_sets/problem-set-decision-trees-and-logistic-regression-jeffTheLandShark"]
-	path = prob_sets/problem-set-decision-trees-and-logistic-regression-jeffTheLandShark
+	path = prob_sets/decision-trees-and-logistic-regression
 	url = git@github.com:msoecsse/problem-set-decision-trees-and-logistic-regression-jeffTheLandShark.git
 [submodule "prob_sets/problem-set-support-vector-machines-jeffTheLandShark"]
 	path = prob_sets/support-vector-machines
