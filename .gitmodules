@@ -46,3 +46,6 @@
 [submodule "term_proj/Isolation-Forest"]
 	path = term_proj/Isolation-Forest
 	url = git@github.com:jeffTheLandShark/Isolation-Forest.git
+[submodule "labs/lab-07-jeffTheLandShark"]
+	path = labs/lab-07-jeffTheLandShark
+	url = git@github.com:msoecsse/lab-07-jeffTheLandShark.git
