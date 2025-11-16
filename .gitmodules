@@ -49,3 +49,6 @@
 [submodule "labs/lab-07-jeffTheLandShark"]
 	path = labs/lab-07
 	url = git@github.com:msoecsse/lab-07-jeffTheLandShark.git
+[submodule "labs/lab-08-jeffTheLandShark"]
+	path = labs/lab-08-jeffTheLandShark
+	url = git@github.com:msoecsse/lab-08-jeffTheLandShark.git
