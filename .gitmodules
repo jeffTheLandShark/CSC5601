@@ -52,3 +52,6 @@
 [submodule "labs/lab-08-jeffTheLandShark"]
 	path = labs/lab-08
 	url = git@github.com:msoecsse/lab-08-jeffTheLandShark.git
+[submodule "prob_sets/problem-set-cost-function-fun-jeffTheLandShark"]
+	path = prob_sets/problem-set-cost-function-fun-jeffTheLandShark
+	url = git@github.com:msoecsse/problem-set-cost-function-fun-jeffTheLandShark.git
